@@ -10,5 +10,10 @@
     "reddit": "./reddit.mjs"
   },
   "author": "Samrood Ali",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "open": "^8.2.0",
+    "yargs": "^17.0.1"
+  }
 }
